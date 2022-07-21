@@ -1,0 +1,22 @@
+{
+  "name": "workshop-bootstrap",
+  "version": "1.0.0",
+  "description": "brief bootstrap ",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch style.scss:style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johan030/Bootstrap-vueJs.git"
+  },
+  "author": "kelian et Johan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johan030/Bootstrap-vueJs/issues"
+  },
+  "homepage": "https://github.com/johan030/Bootstrap-vueJs#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.0"
+  }
+}
